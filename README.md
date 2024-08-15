@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/588cb8a9-45ee-4762-ab35-e02dd653ff3b
 ## 🗺️ Introduction
 The **WeatherWorld Mobile App** is a versatile, cross-platform application that delivers real-time weather updates and detailed forecasts for locations across the globe, powered by the OpenWeatherMap API.
 
-## 💻 Technology Stack
+## 💻 #Technology Stack
 - **Flutter**: The primary SDK used for crafting the application.
 - **Dart**: The programming language behind the app.
 - **Provider**: State management solution to handle app state efficiently.
